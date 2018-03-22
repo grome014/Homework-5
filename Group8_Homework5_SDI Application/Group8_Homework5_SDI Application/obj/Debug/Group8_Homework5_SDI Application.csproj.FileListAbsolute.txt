@@ -1,0 +1,14 @@
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\bin\Debug\Group8_Homework5_SDI Application.exe.config
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\bin\Debug\Group8_Homework5_SDI Application.exe
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\bin\Debug\Group8_Homework5_SDI Application.pdb
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\bin\Debug\FoundationControlLibrary.dll
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\bin\Debug\FoundationControlLibrary.pdb
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI Application.csprojResolveAssemblyReference.cache
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI_Application.AboutDialog.resources
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI_Application.MainForm.resources
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI_Application.OathDialog.resources
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI_Application.Properties.Resources.resources
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI Application.csproj.GenerateResource.Cache
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI Application.exe
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI Application.pdb
+C:\Users\Zero\Desktop\Advanced Windows Prog\Homework 5\Group8_Homework5_SDI Application\Group8_Homework5_SDI Application\obj\Debug\Group8_Homework5_SDI Application.csproj.CoreCompileInputs.cache

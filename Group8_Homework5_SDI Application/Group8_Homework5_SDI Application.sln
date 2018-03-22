@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group8_Homework5_SDI Application", "Group8_Homework5_SDI Application\Group8_Homework5_SDI Application.csproj", "{1176B333-55CD-4297-9E5D-278AC94EB6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoundationControlLibrary", "..\..\Homework 4 v2\Group8_Homework_3A\FoundationControlLibrary\FoundationControlLibrary.csproj", "{12F21ECD-7C13-4BC6-A78A-674DE14F5968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1176B333-55CD-4297-9E5D-278AC94EB6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1176B333-55CD-4297-9E5D-278AC94EB6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1176B333-55CD-4297-9E5D-278AC94EB6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1176B333-55CD-4297-9E5D-278AC94EB6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F21ECD-7C13-4BC6-A78A-674DE14F5968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F21ECD-7C13-4BC6-A78A-674DE14F5968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F21ECD-7C13-4BC6-A78A-674DE14F5968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F21ECD-7C13-4BC6-A78A-674DE14F5968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bpla2112.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Group8_Homework5_SDI\u0020Application\\Group8_Homework5_SDI\u0020Application.csproj
+		SccProjectName1 = Group8_Homework5_SDI\u0020Application
+		SccLocalPath1 = Group8_Homework5_SDI\u0020Application
+		SccProjectUniqueName2 = ..\\..\\Homework\u00204\u0020v2\\Group8_Homework_3A\\FoundationControlLibrary\\FoundationControlLibrary.csproj
+		SccProjectName2 = ../../Homework\u00204\u0020v2/Group8_Homework_3A/FoundationControlLibrary
+		SccLocalPath2 = ..\\..\\Homework\u00204\u0020v2\\Group8_Homework_3A\\FoundationControlLibrary
+	EndGlobalSection
+EndGlobal
